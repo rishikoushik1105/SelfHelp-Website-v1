@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid black;
+  }
+
+th{
+    background-color: aquamarine;
+}
+
+td{
+    border-color: yellow;
+    background-color: rgb(255, 83, 126);
+}
+
+.student{
+    color: rgb(50, 83, 173);
+}
+
+.abcd{
+    background-color: rgb(9, 68, 14);
+    color: white
+}
